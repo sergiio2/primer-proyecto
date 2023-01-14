@@ -1,0 +1,25 @@
+.logo {
+    background-color: aqua;
+    margin: 50px;
+    padding: 10px;
+}
+.parr {
+    background-color: brown;
+    width: 50%;
+}
+.barra {
+display: inline-block;
+background-color: green;
+color: antiquewhite;
+padding: 10px 20px;
+text-decoration: none;
+}
+.barra:hover {
+background-color: rgb(152, 152, 165);
+}
+nav{
+padding: 20px;
+background-color: rgb(204, 126, 31);
+display: flex;
+justify-content: space-around;
+}
